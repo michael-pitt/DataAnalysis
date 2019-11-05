@@ -1,0 +1,5 @@
+<use name="DataAnalysis/CMS">
+<environment>
+  <bin name="runAnalysis"           file="runAnalysis.cc"></bin>
+</environment>
+<Flags CXXFLAGS="-g">
